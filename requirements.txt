@@ -1,9 +1,0 @@
-tensorflow==2.13.0  # Or the version compatible with your saved model
-numpy==1.23.5       # For numerical computations
-scikit-learn==1.2.0 # For machine learning and metrics
-pandas==1.5.3       # For data manipulation
-matplotlib==3.7.2   # For data visualization
-seaborn==0.12.2     # For enhanced data visualization
-Pillow==9.4.0       # For image handling (PIL)
-joblib==1.3.0       # For model saving/loading
-streamlit==1.24.0   # For creating web applications
