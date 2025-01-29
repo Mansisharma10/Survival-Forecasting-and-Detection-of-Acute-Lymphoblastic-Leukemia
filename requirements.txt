@@ -1,0 +1,14 @@
+streamlit
+tensorflow==2.12.0
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+Pillow
+opencv-python-headless
+joblib
+scipy
+scikit-survival
+protobuf==3.20.*
+h5py
