@@ -1,0 +1,14 @@
+streamlit
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+Pillow
+opencv-python-headless
+joblib
+scipy
+scikit-survival
+protobuf
+h5py
